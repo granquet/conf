@@ -1,0 +1,12 @@
+[submodule ".zsh/zsh-syntax-highlighting-filetypes"]
+	path = .zsh/zsh-syntax-highlighting-filetypes
+	url = https://github.com/trapd00r/zsh-syntax-highlighting-filetypes.git
+[submodule ".vim/ag.vim"]
+	path = .vim/ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule ".vim/vim-gitgutter"]
+	path = .vim/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
+[submodule ".dir_colors/LS_COLORS"]
+	path = .dir_colors/LS_COLORS
+	url = https://github.com/trapd00r/LS_COLORS.git
