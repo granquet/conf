@@ -26,7 +26,6 @@ EDITOR=vim
 # Alias
 alias vi=vim
 alias ls='ls --color=auto'
-alias bosch_vpn='nmcli --ask con up 201efc9f-3977-4270-beda-6e17617b0c65'
 # remember previous dirs
 autoload -Uz chpwd_recent_dirs cdr add-zsh-hook
 add-zsh-hook chpwd chpwd_recent_dirs
