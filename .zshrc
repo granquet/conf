@@ -22,6 +22,7 @@ zstyle ':completion:*:default' list-colors ${(s.:.)LS_COLORS}
 autoload -Uz promptinit
 promptinit
 prompt adam1
+EDITOR=vim
 # Alias
 alias vi=vim
 alias ls='ls --color=auto'
