@@ -1,3 +1,12 @@
 [user]
 	name = Guillaume Ranquet
 	email = ranquet.guillaume@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+	pager = "less -FRX"
+[alias]
+	vimdiff = "difftool -y -t vimdiff"
+[diff]
+	external = difft
